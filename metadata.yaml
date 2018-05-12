@@ -1,0 +1,42 @@
+_repo: The-Ambassador_32587
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 32587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merwin, Sam
+    aliases:
+    - Merwin, Samuel Kimball, Jr.
+    - Ferrat, Jacques Jean
+    birthdate: 1910
+    deathdate: 1996
+    gutenberg_agent_id: '33758'
+    url: http://www.gutenberg.org/2009/agents/33758
+    wikipedia: https://en.wikipedia.org/wiki/Sam_Merwin,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ambassadors -- Fiction'
+- !lcsh 'Computers -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Ambassador
+url: http://www.gutenberg.org/ebooks/32587
